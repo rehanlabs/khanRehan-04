@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khanRehan-04
-- 👀 I’m interested in AI, Machine Learning
-- 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on Web Development and Cloud Apps
+- 👀 I’m interested in AR/VR and Game Development
+- 🌱 I’m currently learning Game Developmentand Machine Learning 
+- 💞️ I’m looking to collaborate on Unity 
 - 📫 Reach me through Email: m.rehankhan8626@gmail.com
 
 <!---
