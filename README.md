@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khanRehan-04
-- 👀 I’m interested in AR/VR and Game Development
-- 🌱 I’m currently learning Game Developmentand Machine Learning 
+- 👀 I’m interested in Game Design/Development and AR/VR/MR
+- 🌱 I’m currently working in Game Development 
 - 💞️ I’m looking to collaborate on Unity 
 - 📫 Reach me through Email: m.rehankhan8626@gmail.com
 
