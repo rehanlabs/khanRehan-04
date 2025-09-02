@@ -1,4 +1,4 @@
-- 👋 Hi, I,m Rehan
+- 👋 Hi, I'm Rehan
 - 👀 I’m interested in Game Design/Development and XR
 - 🌱 I’m currently working in Game Development 
 - 💞️ I’m looking to collaborate on Unity Game Projects
